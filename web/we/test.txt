@@ -1,0 +1,7 @@
+<xml>
+        <ToUserName><![CDATA[ohtyf6t_hmvLibOIF-QLKL-d57Lw]]></ToUserName>
+        <FromUserName><![CDATA[gh_c1a2d9b9bca2]]></FromUserName>
+        <CreateTime>1686634491</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[返回内容为：select a.name,b.title,b.content from poets as a inner join poetries as b where b.id=? and a.id=b.poet_id]]></Content>
+        </xml>
